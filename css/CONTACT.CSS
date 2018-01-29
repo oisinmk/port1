@@ -1,0 +1,159 @@
+
+    *
+	{
+	Padding: 0;
+Margin: 0;
+	Font-size:100%;
+	Line-height:1em;
+	}
+ 
+
+body{
+   
+   
+
+    font-size: 100%;
+    
+ width: 100%;
+    
+    margin: 0px;
+    padding: 0px;
+    overflow-x: hidden; 
+    background: #f6f6f6;
+}
+
+.email
+{
+    
+    width: 100%;
+  margin-top: 1%;
+    
+}
+
+h1
+{
+   font-family: "Avant Garde", Avantgarde, "Century Gothic", CenturyGothic, "AppleGothic", sans-serif;
+    font-size: 9vw;
+    
+   
+  
+  position: relative;
+  
+     text-decoration: underline;
+    color: #444444;
+     display: inline-block;
+    margin-left: auto;
+    margin-right: auto 
+    
+}
+
+.email h2
+{
+    font-family: 'Assistant', sans-serif;
+    font-size: 1.5vw;
+    position: relative;
+   
+   
+     font-weight:lighter;
+    
+color: #b7b7b7;
+     display: inline-block;
+    margin-left: auto;
+    margin-right: auto ;
+        text-transform: uppercase;
+    
+    
+    
+}
+
+.getintouch
+{
+  width: 100%;
+    margin-top: 8%;
+    
+    
+    
+    
+    
+    
+}
+
+
+
+.grow { transition: all .2s ease-in-out; }
+.grow:hover { transform: scale(1.1); }
+
+
+
+
+
+
+
+
+.navvy
+         
+{position: fixed; top: 0px; z-index: 444;width:100%}
+            
+{
+    list-style-type:none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    width: 100%;
+    
+
+
+}
+
+li 
+{
+    
+ list-style-type:none;
+ display: inline-block;
+  
+}
+
+ul
+{
+    
+    	padding: 0px;
+	margin: 0px;
+  text-align:left;
+}
+
+li a {
+    display: block;
+    color: #000000;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+    font-family: raleway, sans-serif;
+    font-size:.75vw;
+  font-weight: thin;
+    
+}
+
+li a:hover {
+    background-color: #C9C9C9;
+}
+
+.social
+{
+    position:relative;
+    margin-top: 2%;
+     
+          
+        padding: 10px 10px 120px 10px;
+      
+        max-width: 100%;
+          
+    
+    
+    
+}
+
+
+
+
+
+
